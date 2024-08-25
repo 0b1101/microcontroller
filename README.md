@@ -26,7 +26,7 @@ Besides the code editor, other softwares used in this project were:
 
 -   May 06th, 2023: Initiation of the project development.
 -   June 27nd, 2023: Successful completion of the project.
--   Feburary 3rd, 2024: Project translated and documented in English.
+-   February 3rd, 2024: Project translated and documented in English.
 
 ### Further Information
 
